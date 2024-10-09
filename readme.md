@@ -1,1 +1,6 @@
-#Forking REACT
+# Forking REACT
+  
+# Contributors
+--Pravakar Rijal
+--Manish Dhungana
+--Akash Tolange
