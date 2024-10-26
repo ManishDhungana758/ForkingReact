@@ -5,6 +5,3 @@
 --Pravakar Rijal
 --Manish Dhungana
 --Akash Tolange
-
-
-
